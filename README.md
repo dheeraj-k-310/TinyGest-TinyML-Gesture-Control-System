@@ -140,10 +140,12 @@ This project is developed for educational and research purposes.
 ---
 
 
+---
 
 ## 👨‍💻 Authors
 
-**Dheeraj**  
-**Ajay Kumar**
-**Rohit Kumar** 
+- **Dheeraj**  
+- **Ajay Kumar**  
+- **Rohit Kumar**
+
 
