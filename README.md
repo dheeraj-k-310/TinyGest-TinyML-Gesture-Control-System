@@ -50,6 +50,7 @@ Application Control Trigger
 
 ## 📂 Project Structure
 
+```
 ML/
 │
 ├── hand_gesture_control.py
@@ -58,9 +59,8 @@ ML/
 ├── test.py
 ├── requirements.txt
 └── README.md
+```
 
-
----
 
 ## ⚙️ Requirements
 
