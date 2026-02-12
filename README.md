@@ -75,26 +75,32 @@ ML/
 ### 1️⃣ Create Virtual Environment
 
 **Windows**
+```bash
 python -m venv myenv
 myenv\Scripts\activate
-
+```
 
 **Linux**
+```bash
 python3 -m venv myenv
 source myenv/bin/activate
+```
 
+---
 
 ### 2️⃣ Install Dependencies
 
+```bash
 pip install opencv-python mediapipe pyautogui numpy
-
+```
 
 ---
 
 ## ▶️ Run the Project
 
+```bash
 python hand_gesture_control.py
-
+```
 
 Press `q` to exit.
 
