@@ -139,6 +139,11 @@ This project is developed for educational and research purposes.
 
 ---
 
-## 👨‍💻 Author
 
-Developed as a TinyML-based gesture recognition prototype for touchless application control.
+
+## 👨‍💻 Authors
+
+**Dheeraj**  
+**Ajay Kumar**
+**Rohit Kumar** 
+
